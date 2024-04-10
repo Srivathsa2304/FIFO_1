@@ -36,5 +36,4 @@ class f_scoreboard extends uvm_scoreboard;
     end
   endfunction
 endclass
-    
-class f_c
+
